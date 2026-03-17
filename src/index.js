@@ -32,7 +32,8 @@ app.use(cors({
     'http://192.168.18.118:5173',
     'https://wolverine-house.netlify.app',
     'http://wolverine-house.netlify.app',
-    'https://backwolveriiine-4pc3.vercel.app'
+    'https://backwolveriiine-4pc3.vercel.app',
+    "https://wolverinehhoused.vercel.app"
 
   ],
   credentials: true,
