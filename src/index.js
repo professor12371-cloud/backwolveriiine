@@ -34,7 +34,9 @@ app.use(cors({
     'http://wolverine-house.netlify.app',
     'https://backwolveriiine-4pc3.vercel.app',
     "https://wolverinehhoused.vercel.app",
-    "https://wolveriiine-wnfx.vercel.app"
+    "https://wolveriiine-wnfx.vercel.app",
+    "https://wolverine-house-wetx.vercel.app"
+    
 
   ],
   credentials: true,
