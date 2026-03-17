@@ -37,7 +37,6 @@ app.use(cors({
     "https://wolveriiine-wnfx.vercel.app",
     "https://wolverine-house-wetx.vercel.app"
     
-
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
